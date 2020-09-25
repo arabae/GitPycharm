@@ -15,3 +15,5 @@ print('Hello World Updates on Github')
 
 
 print('Hello World Updates on Local PC')
+
+print('Update 2 on GitHub Only')
